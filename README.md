@@ -30,8 +30,9 @@ Tasked by Wooteco's owner, I analyzed sales data from 2014-2017 across furniture
    - Which product category (furniture, office supply, or technology) performed the best overall during the four-year period?
 
 ------------------------------------------------
+*INSIGHTS*
 
-I meticulously perform data cleaning to ensure accuracy and reliability. Next, leveraging pivot tables, I transform raw data into *insightful summaries*, facilitating deeper analysis. Employing various chart types, I visually represent trends, patterns, and insights, fostering comprehension and decision-making. Lastly, I craft a dynamic dashboard in Microsoft Excel, consolidating key metrics and visuals for a comprehensive overview, empowering stakeholders to make informed decisions swiftly.
+I meticulously perform data cleaning to ensure accuracy and reliability. Next, leveraging pivot tables, I transform raw data into insightful summaries, facilitating deeper analysis. Employing various chart types, I visually represent trends, patterns, and insights, fostering comprehension and decision-making. Lastly, I craft a dynamic dashboard in Microsoft Excel, consolidating key metrics and visuals for a comprehensive overview, empowering stakeholders to make informed decisions swiftly.
 
 Here are the Insight of last Four Years Sales Data...
 
