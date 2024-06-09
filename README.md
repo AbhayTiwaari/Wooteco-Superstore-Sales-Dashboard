@@ -1,4 +1,4 @@
-# Wooteco-Superstore-Sales-Dashboard
+# Wooteco_Superstore_Sales_Dashboard
 A Deep Dive into 9990+ Rows
 
 Tasked by Wooteco's owner, I analyzed sales data from 2014-2017 across furniture, office supplies, and technology using Microsoft Excel to uncover actionable insights.
